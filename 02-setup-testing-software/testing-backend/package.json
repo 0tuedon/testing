@@ -1,0 +1,13 @@
+{
+  "name": "testing-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Tuedon",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest --globals"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.4"
+  }
+}
